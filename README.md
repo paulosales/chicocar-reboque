@@ -1,1 +1,1 @@
-# chicocar-reboque
+# chicocar-reboque [![Build Status](https://travis-ci.com/paulosales/chicocar-reboque.svg?branch=master)](https://travis-ci.com/paulosales/chicocar-reboque) ![Netlify](https://img.shields.io/netlify/71235d6b-c2af-4e69-9e67-bcf4326631f8) [![codecov](https://codecov.io/gh/paulosales/chicocar-reboque/branch/master/graph/badge.svg)](https://codecov.io/gh/paulosales/chicocar-reboque)
